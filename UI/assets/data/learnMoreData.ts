@@ -1,6 +1,6 @@
 import {learnMoreData} from '../../types/types';
 
-const learnMoreData: learnMoreData[] = [
+export const LearnMoreData: learnMoreData[] = [
   {
     id: 'learnMore-1',
     title: 'Snorkelling in Mexico',

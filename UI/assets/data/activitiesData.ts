@@ -1,6 +1,6 @@
-import {ActivityIndicator} from 'react-native';
+import {ActivitesTypes} from '../../types/types';
 
-const activitiesData: ActivityIndicator[] = [
+const activitiesData: ActivitesTypes[] = [
   {
     id: 'activities-1',
     title: 'KAYAK',

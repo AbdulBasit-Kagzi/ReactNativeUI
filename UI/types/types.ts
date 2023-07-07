@@ -27,3 +27,8 @@ export interface learnMoreData {
   title: string;
   image: string | undefined;
 }
+
+export interface discoverData {
+  id: number;
+  title: string;
+}
