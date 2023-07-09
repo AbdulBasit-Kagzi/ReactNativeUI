@@ -26,7 +26,10 @@ export default function Details({route, navigation}: any) {
   return (
     <ScrollView>
       <ImageBackground source={data.imageBig} style={styles.backgroundImage}>
-        <TouchableOpacity onPress={() => navigation.goBack()}>
+        <TouchableOpacity
+          onPress={() => {
+            navigation.goBack();
+          }}>
           <Image source={chevronLeft} style={styles.backImage} />
         </TouchableOpacity>
       </ImageBackground>

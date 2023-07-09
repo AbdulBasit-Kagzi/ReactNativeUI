@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586775144997",
+    "project_id": "uiwithlogin",
+    "storage_bucket": "uiwithlogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586775144997:android:b3451c055779be6813edcc",
+        "android_client_info": {
+          "package_name": "com.ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586775144997-64m4mf16slb2plbha9n8olo5fuauc2fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSKwaa42CeiPrTNcbJgkiFg03Kyxj_jcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586775144997-64m4mf16slb2plbha9n8olo5fuauc2fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
